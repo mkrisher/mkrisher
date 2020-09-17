@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Michael. Most people call me Mike. You can read more about me at [mikekrisher.com](http://mikekrisher.com).
+### I'm Michael. Most people call me Mike. You can read more about me at [mikekrisher.com](http://mikekrisher.com). I'm a manager that ✨still✨ writes code. 🤔
 
 ### Couple of things I may wire up to this page:
 - What I'm reading - The Three Body Problem
