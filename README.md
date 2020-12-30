@@ -5,8 +5,8 @@
 code. 🤔
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Caliban War (Expanse book #2)
-- What I'm listening to - Topographies and The Agnes Circle
+- What I'm reading - Abaddon's Gate (Expanse book #3)
+- What I'm listening to - The Cure (always), Cigarettes After Sex, Concrete Blonde, In Parallel
 - What I'm writing - A few book reviews and thoughts on team dynamics
 - What I'm drinking -  Deeper Roots coffee
 
@@ -21,17 +21,3 @@ code. 🤔
 - Death Cab For Cutie - site admin for a few years
 - Macromedia and Adobe - Lots of Flash stuff, everyone remembers Flash right?
 
-<!--
-**mkrisher/mkrisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
