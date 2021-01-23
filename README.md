@@ -5,8 +5,8 @@
 code. 🤔
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Abaddon's Gate (Expanse book #3)
-- What I'm listening to - The Cure (always), Cigarettes After Sex, Concrete Blonde, In Parallel
+- What I'm reading - Cibola Burn (Expanse book #4)
+- What I'm listening to - The Cure (always), Concrete Blonde, Kim Gordon's solo album
 - What I'm writing - A few book reviews and thoughts on team dynamics
 - What I'm drinking -  Deeper Roots coffee
 
