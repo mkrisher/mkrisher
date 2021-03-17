@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi, hello
 
 ### I'm Michael. Most people call me Mike. You can read more about me at 
 [mikekrisher.com](http://mikekrisher.com). I'm a manager that ✨still✨ writes 
-code. 🤔
+code.
 
 ### Bio:
 Michael Krisher is a patent awarded engineer and open source contributor with
@@ -10,13 +10,14 @@ over two decades of experience leading teams including Nike’s realtime data
 platform and Recurly's customer data platform. He is a proven leader with the
 experience to improve an organization’s process and culture. Whether the
 engineering organization was large or small, Michael has made a positive impact
-in every one he has had the good fortune to be a part of.
+in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Nemesis Games (Expanse book #5)
-- What I'm listening to - The Cure (always), Preoccupations, Kim Gordon's solo album
-- What I'm writing - A few book reviews and thoughts on team dynamics
-- What I'm drinking - Deeper Roots coffee
+- What I'm reading - Tiamat's Wrath (Expanse book #8)
+- What I'm listening to - The Cure & The Smiths (always), DJ Brian L's Fuzzed Out Bliss on
+  Mixcloud
+- What I'm writing - Posts about teams from a mamanger's perspective
+- What I'm drinking - Sightglass coffee
 
 ### Super breviated list of projects I've worked on
 - Nike - Realtime data and analytics platform (Kafka)
