@@ -1,6 +1,8 @@
 ### Hi, hello
 
-### I'm Michael. Most people call me Mike. You can read more about me at 
+### I'm Michael. Most people call me Mike. 
+
+You can read more about me at 
 [mikekrisher.com](http://mikekrisher.com). I'm a manager that ✨still✨ writes 
 code.
 
