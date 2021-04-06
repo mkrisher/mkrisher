@@ -15,7 +15,7 @@ engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Tiamat's Wrath (Expanse book #8)
+- What I'm reading - Shape Up by @rjs
 - What I'm listening to - The Cure & The Smiths (always), DJ Brian L's Fuzzed Out Bliss on
   Mixcloud
 - What I'm writing - Posts about teams from a mamanger's perspective
