@@ -4,8 +4,9 @@
 
 You can read more about me at 
 [mikekrisher.com](http://mikekrisher.com). I've been in the industry for over
-two decades. I'm an engineering leader focused on teams and people. I ✨still✨ write 
-code just maybe not during business hours.
+two decades. My last few years have been focused on people and process. 
+I ✨still✨ write code but spend a fair amount of time thinking about how to 
+solve problems teams experience between the lines of code.
 
 ### Bio:
 Michael Krisher is a patent awarded engineer and open source contributor with
@@ -16,11 +17,10 @@ engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - How Not To Die - Michael Greger
-- What I'm listening to - The Cure & The Smiths (always), REM and some Violent
-  Femmes
+- What I'm reading - How Will You Measure Your Life - Clayton Christensen
+- What I'm listening to - The Cure, Bauhaus, The Horrors
 - What I'm writing - Posts about teams from a mamanger's perspective
-- What I'm drinking - Stumptown coffee
+- What I'm drinking - Blue Bottle & Heart coffee
 
 ### Super breviated list of projects I've worked on
 - Nike - Realtime data and analytics platform (Kafka)
