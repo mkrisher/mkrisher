@@ -17,10 +17,10 @@ engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Interview With The Vampire - Anne Rice
-- What I'm listening to - The Cure, Bauhaus, The French Police
-- What I'm writing - Posts about teams from a mamanger's perspective
-- What I'm drinking - Blue Bottle & Deeper Roots coffee
+- What I'm reading - The Vampire Lestat - Anne Rice
+- What I'm listening to - The Cure, Haunt Me, In Letter Form
+- What I'm [writing](https://github.com/mkrisher/writing) - Posts about teams from a mamanger's perspective
+- What I'm drinking - Blue Bottle & Sightglass
 
 ### Super breviated list of projects I've worked on
 - Schemabook - a SaaS I'm launching soon
