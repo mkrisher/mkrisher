@@ -4,27 +4,27 @@
 
 You can read more about me at 
 [mikekrisher.com](http://mikekrisher.com). I've been in the industry for over
-two decades. Recent years have been focused on people and process. 
+two decades. In recent years, I have been focused on people and process. 
 I ✨still✨ write code and spend a fair amount of time thinking about how to 
 solve problems teams experience through proper planning and setting expectations.
 
 ### Bio:
 Michael Krisher is a patent awarded engineer and open source contributor with
 over two decades of experience leading teams including Nike’s realtime data
-platform and Recurly's customer data platform. He is a proven leader with the
+platform and Recurly's customer data platform teams. He is a proven leader with the
 experience to improve an organization’s process and culture. Whether the
 engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Halo: The Story Behind Depeche Mode's Classic Album Violator
-- What I'm listening to - The Cure, Haunt Me, The Secret French Postcards
-- What I'm [writing](https://github.com/mkrisher/writing) - Posts about teams from a mamanger's perspective
-- What I'm drinking - Sightglass Seasonal blend
+- What I'm reading - Quiet, The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+- What I'm listening to - The Cure, Dead Anyway, The Raveonettes
+- What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
+- What I'm drinking - Blue Bottle Winter Blend
 
 ### Super breviated list of projects I've worked on
 - Schemabook - a SaaS I'm launching soon, schema stuff
-- Blue Lava - Ruby and Rails stuff
+- Blue Lava - Ruby and Rails stuff, AWS, Events, Kafka, and Debezium
 - Nike - Realtime data and analytics platform, AWS and Kafka
 - Recurly - Data and Analytics platform, AWS stuff
 - Kenna Security - Ruby and Elasticsearch stuff
