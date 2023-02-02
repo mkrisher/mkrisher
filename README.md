@@ -1,12 +1,12 @@
-### Hi, hello
+### Hi, 
+### hello
 
 ### I'm Michael. Most people call me Mike. 
 
-You can read more about me at 
-[mikekrisher.com](http://mikekrisher.com). I've been in the industry for over
-two decades. In recent years, I have been focused on people and process. 
+You can read more about me at [mikekrisher.com](http://mikekrisher.com). I've been in the industry 
+for over two decades. In recent years, I have been focused on people and process. 
 I ✨still✨ write code and spend a fair amount of time thinking about how to 
-solve problems teams experience through proper planning and setting expectations.
+solve the problems teams experience through proper planning and setting expectations.
 
 ### Bio:
 Michael Krisher is a patent awarded engineer and open source contributor with
@@ -17,10 +17,11 @@ engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm reading - Quiet, The Power of Introverts in a World That Can't Stop Talking by Susan Cain
-- What I'm listening to - The Cure, Dead Anyway, The Raveonettes
+- What I'm [reading](https://mikekrisher.com/books) - Quiet, The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+- What I'm [listening
+  to](https://open.spotify.com/user/mjkrisher?si=87b30231a6bb4c65&nd=1) - The Cure, Dead Anyway, The Raveonettes
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
-- What I'm drinking - Blue Bottle Winter Blend
+- What I'm [drinking](https://mikekrisher.com/coffees) - Blue Bottle Winter Blend
 
 ### Super breviated list of projects I've worked on
 - Schemabook - a SaaS I'm launching soon, schema stuff
