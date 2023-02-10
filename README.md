@@ -5,8 +5,9 @@
 
 You can read more about me at [mikekrisher.com](http://mikekrisher.com). I've been in the industry 
 for over two decades. In recent years, I have been focused on people and process. 
-I ✨still✨ write code and spend a fair amount of time thinking about how to 
-solve the problems teams experience through proper planning and setting expectations.
+I ✨still✨ write code but spend a fair amount of time thinking about how to 
+solve the problems teams experience. I believe the majority of those problems are due to a lack of 
+proper planning and setting expectations.
 
 ### Bio:
 Michael Krisher is a patent awarded engineer and open source contributor with
