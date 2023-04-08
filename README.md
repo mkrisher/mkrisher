@@ -18,14 +18,14 @@ engineering organization was large or small, Michael has made a positive impact
 in every team he has had the good fortune to be a part of.
 
 ### Couple of things I may wire up to this page:
-- What I'm [reading](https://mikekrisher.com/books) - Quiet, The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+- What I'm [reading](https://mikekrisher.com/books) - Designing Your Life, and Wine Simple
 - What I'm [listening
-  to](https://open.spotify.com/user/mjkrisher?si=87b30231a6bb4c65&nd=1) - The Cure, Dead Anyway, The Raveonettes
+  to](https://open.spotify.com/user/mjkrisher?si=87b30231a6bb4c65&nd=1) - The Cure, New Order, The Raveonettes
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
-- What I'm [drinking](https://mikekrisher.com/coffees) - Blue Bottle Winter Blend
+- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from local shop Proud Hound
 
 ### Super breviated list of projects I've worked on
-- Schemabook - a SaaS I'm launching soon, schema stuff
+- Schemabook - a SaaS I'm launching soon, schema/data contract stuff
 - Blue Lava - Ruby and Rails stuff, AWS, Events, Kafka, and Debezium
 - Nike - Realtime data and analytics platform, AWS and Kafka
 - Recurly - Data and Analytics platform, AWS stuff
