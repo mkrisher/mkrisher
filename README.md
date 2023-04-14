@@ -20,9 +20,9 @@ in every team he has had the good fortune to be a part of.
 ### Couple of things I may wire up to this page:
 - What I'm [reading](https://mikekrisher.com/books) - Designing Your Life, and Wine Simple
 - What I'm [listening
-  to](https://open.spotify.com/user/mjkrisher?si=87b30231a6bb4c65&nd=1) - The Cure, New Order, The Raveonettes
+  to](https://open.spotify.com/user/mjkrisher?si=87b30231a6bb4c65&nd=1) - The Cure, New Order, Zero Le Creche
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
-- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from local shop Proud Hound
+- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Heart Roasters in Portland
 
 ### Super breviated list of projects I've worked on
 - Schemabook - a SaaS I'm launching soon, schema/data contract stuff
