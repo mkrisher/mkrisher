@@ -1,5 +1,4 @@
-### Hi, 
-### hello
+### Hi, hello
 
 ### I'm Michael. Most people call me Mike. 
 
