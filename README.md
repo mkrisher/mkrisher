@@ -1,4 +1,4 @@
-### Hi, hello
+### Hi, hello!
 
 ### I'm Michael. Most people call me Mike. 
 
@@ -32,7 +32,7 @@ team he has had the good fortune to be a part of.
 - Harvest - Ruby and Rails stuff
 - Proctor & Gamble - Mr. Clean, Swiffer, Dawn, etc, Flash and SOA stuff
 - Google - Gadgets, Gmail, another super secret thing that never saw the light of day, JavaScript stuff
-- Cuban Council - whatever El Presidente sent my way, large list of creative projects, ASP, Flash, PHP, etc.
+- Cuban Council - whatever El Presidente sent my way, a large list of creative projects, ASP, Flash, PHP, etc.
 - Death Cab For Cutie - site admin for a few years, PHP
 - Macromedia and Adobe - Lots of Flash stuff, everyone remembers Flash right?
 
