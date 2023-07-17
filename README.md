@@ -20,7 +20,7 @@ in every team he has had the good fortune to be a part of.
 ### Couple of things I may wire up to this page:
 - What I'm [reading](https://mikekrisher.com/books) - The Psychology Of Money
 - What I'm [listening
-  to](https://music.apple.com/profile/mkrisher) - The Cure, old Ministry, Virgin Prunes
+  to](https://music.apple.com/profile/mkrisher) - checking out some new Jazz mixes
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Blue Bottle
 
