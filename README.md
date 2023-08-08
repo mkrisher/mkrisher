@@ -30,11 +30,11 @@ In my 25+ years of experience, I’ve worked across the full tech stack spanning
 JavaScript to APIs to data platforms. I am genuinely interested in combining my implementation 
 experience and acquired managerial skills into being a strategic engineering leader that 
 consistently enables teams to deliver.
->>>>>>> 2062da7 (Update to match LinkedIn)
 
 ### Couple of things I may wire up to this page:
 - What I'm [reading](https://mikekrisher.com/books) - Outlive by Peter Attia
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - The Cure, Alien Skin, some new Jazz stuff like Binker and Moses
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Martin Gore, Alien Skin, some new Jazz stuff like Binker and Moses
+- What I'm [learning](https://doc.rust-lang.org) - Rust
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Sightglass and Onyx
 
