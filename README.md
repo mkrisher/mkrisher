@@ -32,11 +32,11 @@ experience and acquired managerial skills into being a strategic engineering lea
 consistently enables teams to deliver.
 
 ### Couple of things I may wire up to this page:
-- What I'm [reading](https://mikekrisher.com/books) - Outlive by Peter Attia
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Martin Gore, Alien Skin, some new Jazz stuff like Binker and Moses
+- What I'm [reading](https://mikekrisher.com/books) - The Creative Act by Rick Rubin
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Matte Blvck, Alien Skin, some older Wax Trax albums
 - What I'm [learning](https://doc.rust-lang.org) - Rust
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
-- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Sightglass and Onyx
+- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx
 
 ### Super abbreviated list of projects I've worked on
 - Schemabook - a SaaS I'm building, schema/data contract stuff
