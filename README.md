@@ -9,7 +9,7 @@ about how to solve the problems teams experience. I believe the majority of thos
 problems are due to a lack of proper planning and setting expectations.
 
 ### Bio:
-In my current role as Director of Engineering at Blue Lava, I’ve had the opportunity 
+In my current role as Director of Engineering at Blue Lava (now Zyston), I’ve had the opportunity 
 to help define our roadmap, strategize on hiring, introduce tools like story mapping 
 and feature planning, work directly with customers on feature requests, and implement 
 automation that enabled my teammates to deliver more efficiently.
@@ -32,13 +32,14 @@ experience and acquired managerial skills into being a strategic engineering lea
 consistently enables teams to deliver.
 
 ### Couple of things I may wire up to this page:
-- What I'm [reading](https://mikekrisher.com/books) - The Creative Act by Rick Rubin
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Matte Blvck, Alien Skin, some older Wax Trax albums
+- What I'm [reading](https://mikekrisher.com/books) - The Dark Forest - Cixin Liu
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Wax Trax albums (242, Coil, Thrill Kill, RevCo)
 - What I'm [learning](https://doc.rust-lang.org) - Rust
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx
 
 ### Super abbreviated list of projects I've worked on
+- Tembo - a CLI for the Postgres as a platform company
 - Schemabook - a SaaS I'm building, schema/data contract stuff
 - Blue Lava - Ruby and Rails stuff, AWS, Events, Kafka, and Debezium
 - Nike - Realtime data and analytics platform, AWS and Kafka
