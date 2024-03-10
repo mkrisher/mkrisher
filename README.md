@@ -32,10 +32,10 @@ experience and acquired managerial skills into being a strategic engineering lea
 consistently enables teams to deliver.
 
 ### Couple of things I may wire up to this page:
-- What I'm [reading](https://mikekrisher.com/books) - The Dark Forest - Cixin Liu
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Wax Trax albums (242, Coil, Thrill Kill, RevCo)
+- What I'm [reading](https://mikekrisher.com/books) - Death's End - Cixin Liu
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - FredVonJupiter mixes on Mixcloud
 - What I'm [learning](https://doc.rust-lang.org) - Rust
-- What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective
+- What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective, and Rust as of late
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx
 
 ### Super abbreviated list of projects I've worked on
