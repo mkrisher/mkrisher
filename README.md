@@ -32,15 +32,17 @@ experience and acquired managerial skills into being a strategic engineering lea
 consistently enables teams to deliver.
 
 ### Couple of things I may wire up to this page:
-- What I'm [reading](https://mikekrisher.com/books) - Death's End - Cixin Liu
+- What I'm [reading](https://mikekrisher.com/books) - Titanium Noir, Nick Harkaway
 - What I'm [listening to](https://music.apple.com/profile/mkrisher) - FredVonJupiter mixes on Mixcloud
 - What I'm [learning](https://doc.rust-lang.org) - Rust
 - What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective, and Rust as of late
-- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx
+- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Deeper Roots (Cincinnati, OH)
 
 ### Super abbreviated list of projects I've worked on
+- Echo - an AI copilot for customer sucess managers
 - Tembo - a CLI for the Postgres as a platform company
 - Schemabook - a SaaS I'm building, schema/data contract stuff
+- Zyston - Rust, WASM, Events, langchain, Typescript, Kafka
 - Blue Lava - Ruby and Rails stuff, AWS, Events, Kafka, and Debezium
 - Nike - Realtime data and analytics platform, AWS and Kafka
 - Recurly - Data and Analytics platform, AWS stuff
