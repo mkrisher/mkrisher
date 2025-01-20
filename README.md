@@ -43,10 +43,10 @@ You’re welcome to read more about my experiences at https://mikekrisher.com.
 
 ### Couple of things I may wire up to this page:
 
-- What I'm [reading](https://mikekrisher.com/books) - The Art Thief, Michael Finkel
+- What I'm [reading](https://mikekrisher.com/books) - A Memory Called Empire - Arkady Martine
 - What I'm [listening to](https://open.spotify.com/user/mjkrisher) - The Cure - Songs of a lost world
 - What I'm [learning](https://doc.rust-lang.org) - Rust
-- What I'm [writing](https://mikekrisher.com/writings) - Posts about teams from a mamanger's perspective, and Rust as of late
+- What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx Labs (Rogers, AK)
 
 ### Super abbreviated list of projects I've worked on
@@ -54,7 +54,7 @@ You’re welcome to read more about my experiences at https://mikekrisher.com.
 - Echo - an AI copilot for customer sucess managers (Typescript, Cloudflare, BigQuery)
 - Tembo - a CLI for the Postgres as a platform company (Rust, Postgres, Docker)
 - Schemabook - a SaaS I'm building, schema/data contract stuff (Rails, Postgres)
-- Zyston - security services app (Rust, WASM, Events, langchain, Typescript, Kafka)
+- Zyston - security services app (Rust, WASM, Events, Yew, Typescript, Kafka)
 - Blue Lava - a SaaS app (Ruby and Rails, AWS, Events, Kafka, and Debezium)
 - Nike - data platforms (AWS, Kafka, Kinesis, Lambda)
 - Recurly - Data and Analytics platform for Fintech (AWS, Rails, Debezium, Kafka, MySQL)
