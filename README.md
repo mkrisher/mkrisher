@@ -1,6 +1,6 @@
-### Hi, hello!
+### Hi, hello
 
-### I'm Michael. Most people call me Mike.
+### I'm Michael. Most people call me Mike
 
 You can read more about me at [mikekrisher.com](http://mikekrisher.com). I've been
 in the industry for over two decades. In recent years, I have been focused on
@@ -8,7 +8,7 @@ people and process. I ✨still✨ write code but spend a fair amount of time thi
 about how to solve the problems teams experience. I believe the majority of those
 problems are due to a lack of proper planning and setting expectations.
 
-### Bio:
+### Bio
 
 In my current role as Director of Engineering at Zyston, I’ve been responsible
 for the transition and integration of Blue Lava customers and products into the
@@ -39,12 +39,12 @@ Throughout my 27+ years of experience, I have cultivated a comprehensive skill
 set spanning the entire technology stack. I have gained valuable expertise in
 various domains from JavaScript, Ruby, and Rust, to APIs and data platforms.
 
-You’re welcome to read more about my experiences at https://mikekrisher.com.
+You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
-### Couple of things I may wire up to this page:
+### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - A Memory Called Empire - Arkady Martine
-- What I'm [listening to](https://open.spotify.com/user/mjkrisher) - The Cure - Songs of a lost world
+- What I'm [reading](https://mikekrisher.com/books) - Revelation Space - Alastair Reynolds
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Haunt Me - Watch you bleed
 - What I'm [learning](https://doc.rust-lang.org) - Rust
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx Labs (Rogers, AK)
