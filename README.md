@@ -10,9 +10,14 @@ problems are due to a lack of proper planning and setting expectations.
 
 ### Bio
 
-In my current role as Director of Engineering at Zyston, I’ve been responsible
+In my current role as Engineering Manager at Grace Hill, I'm responsible for 
+the Survey product. I've been tasked with migrating customers off of two 
+legacy systems onto the new modern system. I've tackled tricky migrations like 
+this in the past at places like Nike.
+
+Previously, as Director of Engineering at Zyston, I was responsible
 for the transition and integration of Blue Lava customers and products into the
-Zyston offering post acquisition. I've directly handled the operation and
+Zyston offering–post acquisition. I directly handled the operation and
 management of the Blue Lava tenants, supporting customers along the journey,
 all the while reducing costs.
 
@@ -43,15 +48,15 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 ### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - Revelation Space - Alastair Reynolds
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Haunt Me - Watch you bleed
-- What I'm [learning](https://doc.rust-lang.org) - Rust
+- What I'm [reading](https://mikekrisher.com/books) - Chatter - Ethan Kross
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Orphx - Pitch Black Mirror
+- What I'm [learning](https://doc.rust-lang.org) - Qualtrics
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
 - What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx Labs (Rogers, AK)
 
 ### Super abbreviated list of projects I've worked on
 
-- Echo - an AI copilot for customer sucess managers (Typescript, Cloudflare, BigQuery)
+- Echo - an AI copilot for customer success managers (Typescript, Cloudflare, BigQuery)
 - Tembo - a CLI for the Postgres as a platform company (Rust, Postgres, Docker)
 - Schemabook - a SaaS I'm building, schema/data contract stuff (Rails, Postgres)
 - Zyston - security services app (Rust, WASM, Events, Yew, Typescript, Kafka)
