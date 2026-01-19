@@ -12,14 +12,14 @@ problems are due to a lack of proper planning and setting expectations.
 
 In my current role as Engineering Manager at Grace Hill, I'm responsible for 
 the Survey product. I've been tasked with migrating customers off of two 
-legacy systems onto the new modern system. I've tackled tricky migrations like 
-this in the past at places like Nike.
+legacy systems onto the new modern system. Tackling tricky migrations like 
+this is something I've done in the past at places like Nike and have really enjoyed.
 
 Previously, as Director of Engineering at Zyston, I was responsible
 for the transition and integration of Blue Lava customers and products into the
 Zyston offering–post acquisition. I directly handled the operation and
-management of the Blue Lava tenants, supporting customers along the journey,
-all the while reducing costs.
+management of the Blue Lava tenants, single handedly ran the AWS system 
+infrastructure, supported customers, and reduced costs.
 
 As Director of Engineering at Blue Lava, I had the opportunity to help define
 our roadmap, strategize on hiring, introduce tools like story mapping and
@@ -30,11 +30,11 @@ deliver more efficiently.
 Before Blue Lava, I was Director of Engineering at Nike, leading several teams
 of over 40 engineers responsible for the transition to real-time data and
 analytics. I was asked to streamline several disparate systems into a singular
-data platform with real-time capabilities. Under my leadership, the teams
-implemented everything from data capture, ingestion, data pipelines, data
+data platform with real-time capabilities. I provided management and oversight
+to the teams implementing everything from data capture, ingestion, data pipelines, data
 warehousing, and machine learning. I focused on hiring and promotion,
 introducing roadmaps, budgeting, vendor relationships, establishing support
-efforts, and working cross-functionally with many internal stakeholders.
+patterns, and worked cross-functionally with many internal stakeholders.
 
 Before joining Nike, I directed the data platform efforts at Recurly with a
 core focus on building a high-functioning team. In the process, we introduced
@@ -57,7 +57,7 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 - Echo - an AI copilot for customer success managers (Typescript, Cloudflare, BigQuery)
 - Tembo - a CLI for the Postgres as a platform company (Rust, Postgres, Docker)
-- Schemabook - a SaaS I'm building, schema/data contract stuff (Rails, Postgres)
+- [Schemabook](https://github.com/schemabook/sb) - a SaaS I built and launched solo, schema/data contract stuff (Rails, Postgres)
 - Zyston - security services app (Rust, WASM, Events, Yew, Typescript, Kafka)
 - Blue Lava - a SaaS app (Ruby and Rails, AWS, Events, Kafka, and Debezium)
 - Nike - data platforms (AWS, Kafka, Kinesis, Lambda)
