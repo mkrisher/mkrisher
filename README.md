@@ -48,11 +48,10 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 ### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - Chatter - Ethan Kross
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Orphx - Pitch Black Mirror
+- What I'm [reading](https://mikekrisher.com/books) - Shift - Ethan Kross
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Nitzer Ebb - That Total Age
 - What I'm [learning](https://doc.rust-lang.org) - Qualtrics
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
-- What I'm [drinking](https://mikekrisher.com/coffees) - Some roasts from Onyx Labs (Rogers, AK)
 
 ### Super abbreviated list of projects I've worked on
 
