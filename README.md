@@ -4,7 +4,7 @@
 
 You can read more about me at [mikekrisher.com](http://mikekrisher.com). I've been
 in the industry for over two decades. In recent years, I have been focused on
-people and process. I ✨still✨ write code but spend a fair amount of time thinking
+people and process. I ✨still✨ <s>write</s>review code but spend a fair amount of time thinking
 about how to solve the problems teams experience. I believe the majority of those
 problems are due to a lack of proper planning and setting expectations.
 
@@ -48,9 +48,9 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 ### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - Shift - Ethan Kross
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Nitzer Ebb - That Total Age
-- What I'm [learning](https://doc.rust-lang.org) - Qualtrics
+- What I'm [reading](https://mikekrisher.com/books) - The Faith Of Beasts - James SA Corey
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Normal Bias - Kingdom Come
+- What I'm [learning](https://api.qualtrics.com) - Qualtrics
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
 
 ### Super abbreviated list of projects I've worked on
