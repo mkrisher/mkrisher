@@ -10,10 +10,14 @@ problems are due to a lack of proper planning and setting expectations.
 
 ### Bio
 
-In my current role as Engineering Manager at Grace Hill, I'm responsible for 
+I'm the VP of Technology at Six Feet Up. I work with the team to help define the 
+technology strategy, help our customers remove technical constraints, and help our 
+team members solve hard problems.
+
+In my previous role as Engineering Manager at Grace Hill, I was responsible for 
 the Survey product. I've been tasked with migrating customers off of two 
 legacy systems onto the new modern system. Tackling tricky migrations like 
-this is something I've done in the past at places like Nike and have really enjoyed.
+that is something I've done in the past at places like Nike and have really enjoyed.
 
 Previously, as Director of Engineering at Zyston, I was responsible
 for the transition and integration of Blue Lava customers and products into the
@@ -48,13 +52,14 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 ### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - The Faith Of Beasts - James SA Corey
-- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Normal Bias - Kingdom Come
-- What I'm [learning](https://api.qualtrics.com) - Qualtrics
+- What I'm [reading](https://mikekrisher.com/books) - Red Mars - Kim Stanley Robinson
+- What I'm [listening to](https://music.apple.com/profile/mkrisher) - Mike D - Thank You
+- What I'm [learning](https://nixos.org) - Nix
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
 
 ### Super abbreviated list of projects I've worked on
 
+- Grace Hill - a SaaS app (Rails, Postgres, AWS, Databricks)
 - Echo - an AI copilot for customer success managers (Typescript, Cloudflare, BigQuery)
 - Tembo - a CLI for the Postgres as a platform company (Rust, Postgres, Docker)
 - [Schemabook](https://github.com/schemabook/sb) - a SaaS I built and launched solo, schema/data contract stuff (Rails, Postgres)
