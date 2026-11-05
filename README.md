@@ -52,7 +52,7 @@ You’re welcome to read more about my experiences at <https://mikekrisher.com>.
 
 ### Couple of things I may wire up to this page
 
-- What I'm [reading](https://mikekrisher.com/books) - Red Mars - Kim Stanley Robinson
+- What I'm [reading](https://mikekrisher.com/books) - Enshitiffication - Corey Doctorow
 - What I'm [listening to](https://music.apple.com/profile/mkrisher) - Mike D - Thank You
 - What I'm [learning](https://nixos.org) - Nix
 - What I'm [writing](https://mikekrisher.substack.com) - Posts about the intersection of coding, music and other art forms.
